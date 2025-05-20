@@ -2,6 +2,7 @@
 Calculate effective masses of electron, hole, and exciton from band structure
 
 *How to use:*
+
 Calculate *nscf* with Quantum Espresso using 4 k-points:
 
 ```
